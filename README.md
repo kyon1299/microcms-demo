@@ -3,7 +3,7 @@
 ヘッドレスCMSの導入時によく相談される機能をひととおり実装した、Next.js と microCMS のデモサイトです。
 あわせて、**WordPress の記事を microCMS へ移行するスクリプト**を同梱しています。
 
-- デモ: 【Vercel の URL】
+- デモ: https://microcms-demo-five.vercel.app
 - microCMS の API キーがなくても、同梱のサンプルデータで動きます
 
 ## 機能
