@@ -1,0 +1,29 @@
+[
+  {
+    "id": 101,
+    "slug": "renewal-2026",
+    "status": "publish",
+    "date_gmt": "2026-04-01T00:00:00",
+    "title": { "rendered": "サイトリニューアルのお知らせ &#8211; 2026年春" },
+    "content": { "rendered": "<!-- wp:paragraph -->\n<p>いつもご覧いただきありがとうございます。</p>\n<!-- /wp:paragraph -->\n<p></p>\n<h2>変更点</h2>\n<ul><li>デザインの刷新</li><li>表示速度の改善</li></ul>" },
+    "categories": [3]
+  },
+  {
+    "id": 102,
+    "slug": "%e3%83%98%e3%83%83%e3%83%89%e3%83%ac%e3%82%b9cms%e3%81%a8%e3%81%af",
+    "status": "publish",
+    "date_gmt": "2026-05-10T03:00:00",
+    "title": { "rendered": "ヘッドレスCMSとは？ WordPressとの違い" },
+    "content": { "rendered": "<p>ヘッドレスCMSは、表示部分を持たないCMSです。</p><h2>WordPressとの違い</h2><p>表示と管理が分かれています。</p><p><img src=\"https://example.com/wp-content/uploads/figure.png\" alt=\"構成図\"></p>" },
+    "categories": [1, 5]
+  },
+  {
+    "id": 103,
+    "slug": "draft-post",
+    "status": "draft",
+    "date_gmt": "2026-06-01T00:00:00",
+    "title": { "rendered": "下書きの記事" },
+    "content": { "rendered": "<p>移行対象外</p>" },
+    "categories": [1]
+  }
+]

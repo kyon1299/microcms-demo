@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "未分類", "slug": "uncategorized" },
+  { "id": 3, "name": "お知らせ", "slug": "news" },
+  { "id": 5, "name": "技術ブログ", "slug": "%e6%8a%80%e8%a1%93%e3%83%96%e3%83%ad%e3%82%b0" }
+]
